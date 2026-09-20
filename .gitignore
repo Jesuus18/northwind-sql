@@ -1,0 +1,5 @@
+# Originales, recepción local y credenciales fuera de la entrega.
+source/
+.local/
+.env
+.env.*
